@@ -8,11 +8,37 @@ int main()
 
     printf("The size of the array is: %zu\n", array_length);
 
+    // mean
     int sum = 0;
     for (int i = 0; i < array_length; i++)
     {
         numbers[i] += sum;
     }
+
+    double mean = (double)sum / array_length;
+    printf("mean = %d\n", mean);
+
+    // squared deviations
+    double devs[100] // deviations: devs
+    for (int i = 0; i < array_length; i++)
+    {
+        double deviation = numbers[i] - mean;
+        deviation * deviation = devs[i];
+    }
+
+    // add all of the squared deviations
+    double sumdevs = 0.0;
+    for (int i = 0; i < array_length i++)
+    {
+        sumdevs += dev[i];
+    }
+
+
+    // calculate the variace
+    sumdevs / array_length = double variace
+
+    // print variance
+    printf("variance: /////////////////\n", variace)
 
     return 0;
 }

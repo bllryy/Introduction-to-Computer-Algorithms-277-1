@@ -7,7 +7,6 @@ int main() {
     char seven[] = " *******";
     char nine[] = "*********";
 
-
     printf("%s\n", one);
     printf("%s\n", three);
     printf("%s\n", five);

@@ -12,33 +12,31 @@ int main()
     int sum = 0;
     for (int i = 0; i < array_length; i++)
     {
-        numbers[i] += sum;
+        sum += numbers[i];
     }
 
     double mean = (double)sum / array_length;
-    printf("mean = %d\n", mean);
+    printf("mean = %f\n", mean);
 
     // squared deviations
-    double devs[100] // deviations: devs
+    double devs[100];// deviations: devs
     for (int i = 0; i < array_length; i++)
     {
         double deviation = numbers[i] - mean;
-        deviation * deviation = devs[i];
+        devs[i] = deviation * deviation;
     }
 
     // add all of the squared deviations
     double sumdevs = 0.0;
-    for (int i = 0; i < array_length i++)
+    for (int i = 0; i < array_length; i++)
     {
-        sumdevs += dev[i];
+        sumdevs += devs[i];
     }
 
+    // dividte sumdevs by the array len to get the variance
+    double variace = sumdevs / array_length;
 
-    // calculate the variace
-    sumdevs / array_length = double variace
-
-    // print variance
-    printf("variance: /////////////////\n", variace)
+    printf("variance: %g\n", variace);
 
     return 0;
 }

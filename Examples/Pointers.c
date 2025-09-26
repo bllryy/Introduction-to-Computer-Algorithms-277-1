@@ -1,16 +1,28 @@
 #include <stdio.h>
 
-void swap(int a, int b)
+void swap(int *a, int *b)
 {
-    int temp = a;
-    a = b;
-    b = temp;
+    int temp = *a;
+    *a = *b;
+    *b = temp;
 }
 
 int main() 
 {
     int x = 5;
     int y = 10;
+
+    printf("before swap %d, %d \n",x,y);
+    swap(&x,&y);
+    printf("after swap %d, %d \n",x,y);
+
+    return 0;
+}
+
+
+/*
+Pointers are are addresses in memory
+
 
     // data type of the var you want to point to *ptr  = &var
 
@@ -22,15 +34,10 @@ int main()
 
     // %p for pointer
     
-    printf("%p \n", ptr);
-    
+    printf("%d \n", ptr);
 
-    return 0;
-}
+    ptr += 1;
 
-
-/*
-Pointers are are addresses in memory
-
+    printf("%d \n", *ptr);
 
 */

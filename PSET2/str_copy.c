@@ -7,13 +7,27 @@ Feel free to use strlen() to get the size of your src string.
 #include <stdio.h>
 #include <string.h>
 
+void copy_string(char *dest, char *src);
+
 int main()
 {
-	char *s = "hello";
-	char arr[20];
+  char src[100];
+  char dest[100];
 
-	strcpy(arr, s);
+  printf("Enter a string: ");
+  fgets(src, sizeof(src), stdin);
+
+  copy_string(dest, src);
 	
-	printf("%s \n", arr);
+	printf("Copied: %s\n", dest);
 	return 0;
 }
+
+void copy_string(char *dest, char *src) {
+while (*src != '\0') {
+    *dest = *src;
+    dest++;
+    src++;
+  }
+}
+

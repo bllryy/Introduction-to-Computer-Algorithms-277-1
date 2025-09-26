@@ -2,7 +2,7 @@
 #include <string.h>
 
 
-int isPalindrome()
+int main()
 {
     char input[100];
     printf("Enter a string: \n");
@@ -11,13 +11,13 @@ int isPalindrome()
     int right = strlen( input) - 1;
 
     while (left < right)
-              {
-                  if (input[left] != input[right])
-                      {
-                          printf("True \n"); // false
-                      }
-                  left++;
-                  right--;
-              }
+    {
+    if (input[left] != input[right])
+    {
+        printf("True \n"); // false
+    }
+        left++;
+        right--;
+    }
     printf("False \n"); // true
 }

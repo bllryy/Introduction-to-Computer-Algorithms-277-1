@@ -6,7 +6,7 @@ int main()
 {
     char input[100];
     printf("Enter a string: \n");
-    scanf("%c", input);
+    scanf("%s", input);
     int left = 0;
     int right = strlen( input) - 1;
 

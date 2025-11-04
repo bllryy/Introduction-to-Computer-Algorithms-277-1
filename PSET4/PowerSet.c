@@ -9,13 +9,13 @@ void printSubset(int subset[], int subsetSize)
   {
     printf("%d", subset[i]);
     if (i < subsetSize - 1)
-            printf(", ");
+      printf(", ");
   }
   printf("]");
 }
 
 
-void genPowerset(int arr[], int n, int subsetSize, int subset[], int index)
+void genPowerset(int arr[], int n, int index, int subset[], int subsetSize)
 {
   if (index == n)
   {
@@ -33,11 +33,14 @@ void genPowerset(int arr[], int n, int subsetSize, int subset[], int index)
   genPowerset(arr,n,index+1, subset, subsetSize +1);
 }
 
-int main()
+int main(void)
 {
   int arr[] = {1,2,3};
   int n = sizeof(arr) / sizeof(arr[0]);
   int subset[n];
 
-  printf("Powerset: ");
+  printf("Powerset: \n");
+  genPowerset(arr,  n,  0,  subset,  0);
+
+  return 0;
 }

@@ -42,3 +42,8 @@ int main()
     printf("%d\n", minJumps(arr, n));
     return 0;
 }
+/*
+https://www.geeksforgeeks.org/dsa/minimum-number-jumps-reach-endset-2on-solution/
+
+
+*/

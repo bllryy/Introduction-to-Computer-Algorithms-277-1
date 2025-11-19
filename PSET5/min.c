@@ -22,7 +22,6 @@ long long int findMinProduct(int arr[], int n)
 
 int main()
 {
-
     int arr[] = {3,4,2};
     int n = sizeof(arr) / sizeof(arr[0]);
     int minProduct = findMinProduct(arr, n);

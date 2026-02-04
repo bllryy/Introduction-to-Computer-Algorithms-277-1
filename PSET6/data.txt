@@ -1,0 +1,300 @@
+Alex Morgan
+3.42
+1280
+Jamie Chen
+3.88
+1510
+Michael Rivera
+2.95
+1120
+Priya Patel
+3.71
+1420
+Ethan Brooks
+3.15
+1190
+Sofia Alvarez
+3.96
+1540
+Daniel Kim
+3.54
+1350
+Olivia Thompson
+3.21
+1210
+Noah Stein
+3.67
+1390
+Aisha Hassan
+3.83
+1480
+Lucas Martin
+2.88
+1090
+Emily Park
+3.92
+1520
+Ryan Oâ€™Connor
+3.05
+1160
+Mei Lin
+3.78
+1450
+Jacob Wilson
+3.33
+1270
+Fatima Noor
+3.89
+1500
+Chris Delgado
+2.74
+1040
+Hannah Moore
+3.58
+1370
+Arjun Mehta
+3.86
+1490
+Tyler Evans
+3.12
+1180
+Isabella Rossi
+3.69
+1400
+Kevin Liu
+3.47
+1320
+Sarah Johnson
+3.24
+1230
+Omar Khalid
+3.81
+1460
+Ben Carter
+2.91
+1110
+Nina Petrova
+3.94
+1530
+Marcus Green
+3.08
+1170
+Lily Nguyen
+3.62
+1380
+Samuel Wright
+3.41
+1290
+Zara Ahmed
+3.85
+1490
+Anthony Brown
+2.83
+1070
+Grace Lee
+3.90
+1510
+Diego Morales
+3.18
+1200
+Rachel Goldstein
+3.76
+1440
+Paul Anderson
+3.27
+1250
+Maya Desai
+3.93
+1520
+Connor Hughes
+3.02
+1150
+Jasmine Taylor
+3.56
+1360
+Ivan Kuznetsov
+3.64
+1390
+Natalie Perez
+3.35
+1280
+William Scott
+2.97
+1130
+Avery Collins
+3.82
+1470
+Jose Ramirez
+3.14
+1190
+Elena Popov
+3.91
+1510
+Matthew King
+3.29
+1260
+Rina Sato
+3.87
+1490
+Logan Price
+2.79
+1050
+Talia Cohen
+3.68
+1400
+Victor Nguyen
+3.44
+1310
+Alyssa Reed
+3.22
+1220
+Henry Adams
+3.06
+1160
+Irene Choi
+3.95
+1540
+Carlos Mendez
+3.17
+1200
+Samantha Bell
+3.59
+1370
+Mohammed Ali
+3.84
+1480
+Jonathan Lee
+3.31
+1270
+Anya Volkov
+3.73
+1430
+Trevor Miles
+2.92
+1100
+Pooja Iyer
+3.88
+1500
+Dylan Foster
+3.26
+1240
+Eric Huang
+3.66
+1390
+Katherine Long
+3.19
+1210
+Abdul Rahman
+3.80
+1460
+Peter Novak
+3.04
+1150
+Monica Silva
+3.61
+1380
+Andrew Miller
+3.28
+1250
+Yuki Tanaka
+3.92
+1520
+Shawn Cooper
+2.86
+1080
+Leila Haddad
+3.77
+1440
+Brian Turner
+3.11
+1180
+Natalia Ivanova
+3.90
+1510
+Jason Patel
+3.45
+1310
+Emma White
+3.23
+1230
+Rafael Costa
+3.57
+1360
+Hiroshi Yamamoto
+3.85
+1480
+Cole Bennett
+2.93
+1110
+Farah Malik
+3.79
+1450
+Justin Howard
+3.09
+1170
+Clara Dubois
+3.63
+1390
+Nathan Brooks
+3.34
+1280
+Sergio Lopez
+3.16
+1200
+Amelia King
+3.91
+1520
+Owen Murphy
+3.01
+1140
+Linh Tran
+3.74
+1430
+Robert Fisher
+3.27
+1250
+Iman Farouk
+3.86
+1490
+Kyle Patterson
+2.85
+1080
+Daniela Cruz
+3.60
+1370
+Tomislav Horvat
+3.48
+1320
+Chloe Martinez
+3.20
+1220
+Aaron Feldman
+3.12
+1190
+Saanvi Shah
+3.94
+1530
+Miguel Torres
+3.25
+1240
+Paige Robinson
+3.58
+1360
+Bilal Siddiqui
+3.81
+1470
+Evan Murphy
+3.07
+1160
+Katerina Blazek
+3.72
+1420
+Jordan Lewis
+3.30
+1260
+Nour El-Sayed
+3.89
+1500
+Spencer Hall
+2.90
+1100
